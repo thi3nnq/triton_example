@@ -1,0 +1,7 @@
+gradio
+transformers
+tritonclient[all]
+scipy
+torch
+torchvision
+torchaudio
